@@ -1,10 +1,13 @@
 _repo: Lettres-d-un-satyre_58309
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Vibert, Pierre-Eugène
     gutenberg_agent_id: '49887'
     url: http://www.gutenberg.org/2009/agents/49887
+covers:
+- cover_type: archival
+  image_path: 58309-h/images/cover.jpg
 creator:
   author:
     agent_name: Gourmont, Remy de
@@ -25,6 +28,8 @@ creator:
     - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
     - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58309#Lettres-d-un-satyre
 gutenberg_issued: '2018-11-18'
 gutenberg_type: Text
 identifiers:
